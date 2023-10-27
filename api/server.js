@@ -9,7 +9,10 @@ const fs = require('fs')
 const path = require('path')
 const filePath = path.join('db.json')
 const newPath = path.join('/tmp/db.json')
-fs.copyFile(filePath, newPath)
+fs.copyFile(filePath, newPath, (err) => {
+    if (err) throw err;
+    console.log('source.txt was copied to destination.txt');
+})
 // const data = fs.readFileSync(newPath, "utf-8")
 // const db = JSON.parse(data);
 const router = jsonServer.router('/tmp/db.json')
