@@ -12,7 +12,9 @@
       "dislikes": [
         1,
         2
-      ]
+      ],
+      "date": "۱۴۰۱/۱/۵",
+      "time": "۵:۳۰"
     },
     {
       "id": "answer-2",
@@ -27,7 +29,9 @@
       ],
       "dislikes": [
         5
-      ]
+      ],
+      "date": "۱۴۰۱/۱/۵",
+      "time": "۵:۳۰"
     },
     {
       "id": "answer-3",
@@ -42,7 +46,9 @@
       ],
       "dislikes": [
         5
-      ]
+      ],
+      "date": "۱۴۰۱/۱/۵",
+      "time": "۵:۳۰"
     }
   ],
   "questions": [
@@ -56,7 +62,9 @@
         "answer-2",
         "answer-3"
       ],
-      "totalAnswers": 3
+      "totalAnswers": 3,
+      "date": "۱۴۰۱/۱/۵",
+      "time": "۵:۳۰"
     }
   ],
   "profiles": [
