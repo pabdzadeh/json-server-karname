@@ -4,14 +4,14 @@
       "id": "answer-1",
       "title": "json-server",
       "author": "1",
-      "questionId": 1,
+      "questionId": "1",
       "likes": [
-        3,
-        4
+        "3",
+        "4"
       ],
       "dislikes": [
-        1,
-        2
+        "1",
+        "2"
       ],
       "date": "۱۴۰۱/۱/۵",
       "time": "۵:۳۰"
@@ -22,13 +22,13 @@
       "author": "2",
       "questionId": "1",
       "likes": [
-        1,
-        2,
-        3,
-        4
+        "1",
+        "2",
+        "3",
+        "4"
       ],
       "dislikes": [
-        5
+        "5"
       ],
       "date": "۱۴۰۱/۱/۵",
       "time": "۵:۳۰"
@@ -37,15 +37,15 @@
       "id": "answer-3",
       "title": "json-server",
       "author": "2",
-      "questionId": 1,
+      "questionId": "1",
       "likes": [
-        1,
-        2,
-        3,
-        4
+        "1",
+        "2",
+        "3",
+        "4"
       ],
       "dislikes": [
-        5
+        "5"
       ],
       "date": "۱۴۰۱/۱/۵",
       "time": "۵:۳۰"
